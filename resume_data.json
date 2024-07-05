@@ -1,0 +1,191 @@
+{
+    "basics": {
+        "name": " Abel Morara",
+        "label": "Software Engineer",
+        "image": "",
+        "email": "abelmorara254@gmail.com",
+        "phone": "(254) 724-285-503",
+        "url": "https://programkingabel.github.io/portfolio/",
+        "summary": "Certified Full Stack software developer with expertise in writing clean code, and improving legacy code to create reliable and user-friendly systems. Passionate about open-source contributions, technical writing and staying updated with industry trends. Skilled mentor with the proven ability to motivate, educate, and manage a team of 5+ developers to build React and Rails software programs and effectively track changes. Ensured 98% on-time project completion and improved a startup’s client acquisition success by developing stunning proof of concept MVPs in previous roles.",
+        "location": {
+            "city": "Nairobi",
+            "countryCode": "KE",
+            "region": "East Africa"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "CEOAbel1",
+                "url": "https://twitter.com/CEOAbel1"
+            },
+            {
+                "network": "Github",
+                "username": "ProgramKingAbel",
+                "url": "https://github.com/ProgramKingAbel"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "Abel Morara",
+                "url": "https://www.linkedin.com/in/abel-morara/"
+            },
+            {
+                "network": "Wellfound",
+                "username": "Abel Morara",
+                "url": "https://wellfound.com/u/abel-morara"
+            },
+            {
+                "network": "Medium",
+                "username": "Abel Morara",
+                "url": "https://medium.com/@abelmorara254"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "Texcortech",
+            "position": "Contracted Software Engineer",
+            "url": "https://texcortech.com",
+            "startDate": "2024-01-01",
+            "endDate": "2024-01-01",
+            "summary": "Description…",
+            "highlights": [
+                "Contracted to build the backend of a voting system",
+                "lead a team of developers through the SDLC",
+                "Automated tasks and implemented the CI/CD Pipelines"
+
+            ]
+        },
+        {
+            "name": "CloudmyTribe",
+            "position": "Co-Founder",
+            "url": "https://cloudmytribe.com/",
+            "startDate": "2024-01-01",
+            "endDate": "2024-01-01",
+            "summary": "Description…",
+            "highlights": [
+                "Contracted to build the backend of a voting system",
+                "lead a team of developers through the SDLC",
+                "Automated tasks and implemented the CI/CD Pipelines"
+
+            ]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Microverse",
+            "position": "Volunteer Mentor",
+            "url": "https://www.microverse.org/",
+            "startDate": "2023-03-01",
+            "endDate": "present",
+            "summary": "Description…",
+            "highlights": [
+                "Mentor 2 junior web developers per month via Zoom calls and Slack and providing technical support through code reviews.",
+                "Propose improvements to code organization to improve code quality and overall performance by 10%.",
+                "Provide advice and tips on how to maintain motivation to ensure longevity in the program resulting in 5 students successfully graduating as junior developers."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "Microverse",
+            "url": "https://www.microverse.org/",
+            "area": "Full Stack Web Development",
+            "studyType": "Licentiate",
+            "startDate": "2011-01-01",
+            "endDate": "2013-01-01"
+        },
+        {
+            "institution": "Mount Kenya University",
+            "url": "https://www.mku.ac.ke/",
+            "area": "Electrical and Electronic Engineering",
+            "studyType": "Bachelor",
+            "startDate": "",
+            "endDate": ""
+        }
+    ],
+    "awards": [
+        
+    ],
+    "certificates": [
+
+        {
+            "name": "AWS Certified Cloud Practitioner",
+            "date": "2024-04-07",
+            "issuer": "AWS",
+            "url": "https://cp.certmetrics.com/amazon/en/public/verify/credential/"
+        },
+        {
+            "title": "Full Stack Web Development",
+            "date": "2023-10-01",
+            "awarder": "Microverse",
+            "summary": "https://www.credential.net/43bc6cb0-ea5e-451b-8cb7-fb1971753dd2"
+        }
+    ],
+    "publications": [
+        {
+            "name": "Publication",
+            "publisher": "Medium",
+            "releaseDate": "2014-10-01",
+            "url": "https://publication.com",
+            "summary": ""
+        }
+    ],
+    "skills": [
+        {
+            "name": "Web Development",
+            "level": "Master",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Ruby",
+                "Rails"
+            ]
+        },
+        {
+            "name": "DevOps",
+            "level": "Master",
+            "keywords": [
+                "CI/CD",
+                "Terraform",
+                "Github Actions",
+                "Automation",
+                "Python",
+                "Docker"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Wildlife",
+            "keywords": [
+                "Ferrets",
+                "Unicorns"
+            ]
+        }
+    ],
+    "references": [
+        {
+            "name": "Joshua Karisa",
+            "reference": "Founder and C.E.O Texcortech"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Women of Excellence Awards East Africa Voting System",
+            "startDate": "Feb 2024",
+            "endDate": "June 2024",
+            "description": "",
+            "highlights": [
+                "Built frontend, backend and analytical apps that facilitated the secure collection, verification, and analysis of 𝟰𝟭,𝟮𝟭𝟰 𝘃𝗼𝘁𝗲𝘀 cast for 𝟭𝟱𝟯 𝗻𝗼𝗺𝗶𝗻𝗲𝗲𝘀 across 𝟮𝟰 𝗰𝗮𝘁𝗲𝗴𝗼𝗿𝗶𝗲𝘀."
+            ],
+            "url": "https://www.linkedin.com/posts/abel-morara_womenofexcellence-excellenceawards-onlinevoting-activity-7209095653136732160-shr3?utm_source=share&utm_medium=member_desktop"
+        }
+    ]
+}
